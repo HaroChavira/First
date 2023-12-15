@@ -6,6 +6,8 @@ You will also need to download the example arrays (NumArEx.txt) that the program
 After that, just use a basic drawing app like windows paint and shrnk the canvas size to eight by eight. Draw a number on the canvas, save it, then drag and drop the file into the tkinter window.
 Then the program will try and guest the number you drew.
 
+Additionally, I have attached the example images used to create the example arrays. You can add on to them to make the program more accurate. You will need to make some modefications to the createExamples() function to do so. 
+
 Let me know if you have any questions at: tywhitaker586@gmail.com
 
 Bye!!
